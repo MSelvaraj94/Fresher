@@ -1,0 +1,5 @@
+Can we have blocks in interface?
+88. Explain extends and implements keyword?
+89. Can a interface be extended by another interface?
+90. What is Functional Interface?
+91. What is Marker Interface?
